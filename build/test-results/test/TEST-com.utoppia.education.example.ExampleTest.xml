@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.utoppia.education.example.ExampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-20T01:23:14" hostname="LCOSTAS" time="0.246">
+  <properties/>
+  <testcase name="The example object brings the correct message" classname="com.utoppia.education.example.ExampleTest" time="0.246"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
